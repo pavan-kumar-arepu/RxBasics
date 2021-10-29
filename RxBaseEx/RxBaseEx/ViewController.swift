@@ -11,8 +11,8 @@ import RxSwift
 class ViewController: UIViewController {
     var publishSubject = PublishSubject<String>()
 
-    // MARK: - ViewController Life Cycle Methods
-    
+    // fdfdsfMARK: - ViewController Life Cycle Methodsf 
+    //
     override func viewDidLoad() {
         super.viewDidLoad()
        // publicSubjectFunction()
