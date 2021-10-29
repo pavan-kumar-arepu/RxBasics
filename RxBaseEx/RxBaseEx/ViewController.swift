@@ -11,8 +11,7 @@ import RxSwift
 class ViewController: UIViewController {
     var publishSubject = PublishSubject<String>()
 
-    // fdfdsfMARK: - ViewController Life Cycle Methodsf 
-    //
+    
     override func viewDidLoad() {
         super.viewDidLoad()
        // publicSubjectFunction()
@@ -21,6 +20,10 @@ class ViewController: UIViewController {
        // filterFunction()
         flatMapFunction()
     }
+    
+    // fdfdsfMARK: - ViewController Life Cycle Methodsf
+    //
+
     
 
     //===============================================
